@@ -3,8 +3,8 @@
   "routes": {
     "#": "the pattern / matches all paths not matched by other registered patterns",
     "/": "http://localhost:3000",
-    "/wrong": "192.168.88.250:8080",
-    "/upload": "http://192.168.88.250:8080",
+    "/v1/api": "http://localhost:3001",
+    "/v1/upload": "http://localhost:3002",
     "/hello": "https://192.168.88.250:8090",
     "/static/": "http://192.168.88.250:8080",
     "#/disabled": "192.168.88.250:8080"
