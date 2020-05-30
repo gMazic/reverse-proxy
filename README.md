@@ -1,2 +1,2 @@
 # reverse-proxy
-A reverse proxy with load balander in go
+A reverse proxy with load balancer in go
